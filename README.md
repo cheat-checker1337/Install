@@ -43,7 +43,7 @@ We welcome contributions from the community. To contribute, follow these steps:
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://cheatless.xyz/eula.html) file for more details.
 
 ---
 
