@@ -4,7 +4,6 @@ CheatLess is a tool designed for fast and secure verification processes. This RE
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [FAQ](#faq)
 - [Contributing](#contributing)
