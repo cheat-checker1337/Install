@@ -8,7 +8,6 @@ CheatLess is a tool designed for fast and secure verification processes. This RE
 - [FAQ](#faq)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 - **Safety**: Prioritizes user safety without compromising performance.
@@ -45,9 +44,6 @@ We welcome contributions from the community. To contribute, follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-For further inquiries or issues, please contact our support team at support@cheatless.xyz.
 
 ---
 
